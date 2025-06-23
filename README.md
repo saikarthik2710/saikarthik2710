@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saikarthik2710&show_icons=true&locale=en&layout=compact" alt="saikarthik2710" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikarthik2710&show_icons=true&locale=en" alt="saikarthik2710" /></p>
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is karthik and I'm a java developer, from Hyderabad</h2>
 
 ###
 
